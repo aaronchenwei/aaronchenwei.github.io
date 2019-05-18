@@ -1,0 +1,29 @@
+{
+  "name": "filename-gen",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "private": true,
+  "dependencies": {
+    "shortid": "^2.2.14"
+  },
+  "devDependencies": {
+    "@types/shortid": "^0.0.29",
+    "husky": "^2.3.0",
+    "prettier": "^1.17.1",
+    "pretty-quick": "^1.10.0",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
