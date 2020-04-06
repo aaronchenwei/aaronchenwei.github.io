@@ -4,7 +4,7 @@
 
 ### 2020-04-06
 
-- [](./blog/2020-04-06/4JzHv0Boe.md)
+- [Suse Linux and GCC -Wunprototyped-calls](./blog/2020-04-06/4JzHv0Boe.md)
 
 ### 2019-05-18
 
