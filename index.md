@@ -2,9 +2,9 @@
 
 ## Blogs
 
-### 2020-04-20
+### 2020-04-22
 
-- [The ES2020 features](./blog/2020-04-20/EJI5bKpvf.md)
+- [The ES2020 features](./blog/2020-04-22/EJI5bKpvf.md)
 
 ### 2020-04-06
 
