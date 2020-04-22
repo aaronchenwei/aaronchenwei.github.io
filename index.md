@@ -2,6 +2,10 @@
 
 ## Blogs
 
+### 2020-04-20
+
+- [The ES2020 features](./blog/2020-04-20/EJI5bKpvf.md)
+
 ### 2020-04-06
 
 - [Suse Linux and GCC -Wunprototyped-calls](./blog/2020-04-06/4JzHv0Boe.md)
