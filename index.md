@@ -1,12 +1,20 @@
+---
+layout: default
+---
+
 # Aaron's Blog
 
 ## Blogs
+
+---
 
 ### 2020
 
 #### 8. [The ES2020 features](./blog/1587513600.md)
 
 #### 7. [Suse Linux and GCC -Wunprototyped-calls](./blog/1586131200.md)
+
+---
 
 ### 2019
 
