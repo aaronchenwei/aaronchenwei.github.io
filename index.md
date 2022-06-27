@@ -6,6 +6,10 @@ layout: default
 
 ## Blogs
 
+--- 2022
+
+#### 9. [MIT - Papers on Graph Analytics](./blog/1656299790.md)
+
 ---
 
 ### 2020
