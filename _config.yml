@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: Aaron''s Blog
+logo: /assets/img/logo.png
+description: Aaron''s Blog
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
