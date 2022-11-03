@@ -1,5 +1,5 @@
 title: Aaron's Blog
 description: Aaron's Blog
+author: aaronchenwei
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-primer
+theme: jekyll-theme-hacker

@@ -5,7 +5,7 @@ date: 2019-05-18
 author: aaronchenwei
 ---
 
-# Currying 与 Higher-order 函数
+<!-- # Currying 与 Higher-order 函数 -->
 
 ## :one: 绪
 

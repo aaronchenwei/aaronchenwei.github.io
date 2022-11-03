@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Lodash pick/omit 与 ES7 Spread operator
+title: compose/flowRight
 date: 2019-05-18
 author: aaronchenwei
 ---
 
-# compose/flowRight
+<!-- # compose/flowRight -->
 
 ## Create-React-App 与 Decorators
 
