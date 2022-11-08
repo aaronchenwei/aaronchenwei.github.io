@@ -18,7 +18,7 @@ $ ./bin/kafka-storage.sh random-uuid
 M2UyYjBlNDdiNjI4NDYyYm
 ```
 
-## Method 2
+## 2. Method 2
 
 Alternatively, use `proc` filesystem, which comes in handy when you want to dynamically generate multiple clusters without locally extracting Kafka archive to generate UUIDs.
 
@@ -26,7 +26,7 @@ Alternatively, use `proc` filesystem, which comes in handy when you want to dyna
 $ cat /proc/sys/kernel/random/uuid | tr -d '-' | base64 | cut -b 1-22
 ```
 
-## Method 3
+## 3. Method 3
 
 There is also `uuidgen` program, which gives you more control over the process as you can generate random-based or time-based UUIDs.
 
@@ -44,10 +44,10 @@ OPTIONS
 ```
 
 ```sh
-$ uuidgen --time | tr -d '-' | base64 | cut -b 1-22 
+$ uuidgen --time | tr -d '-' | base64 | cut -b 1-22
 ```
 
-## Format Kafka storage
+## 4. Format Kafka storage
 
 ```sh
 $ /opt/kafka/kafka/bin/kafka-storage.sh format -t M2UyYjBlNDdiNjI4NDYyYm -c /opt/kafka/kafka/config/kraft/server.properties
