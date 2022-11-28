@@ -235,7 +235,7 @@
 	<tbody>
 		<tr>
 			<td>FastRP</td>
-			<td>It generates node embeddings of low dimensionality through random projections from the graph’s adjacency matrix to a low-dimensional matrix
+			<td>It generates node embeddings of low dimensionality through random projections from the graph’s adjacency matrix to a low-dimensional matrix</td>
 			<td rowspan=2>
 				<ul>
 					<li>Use the embeddings as machine Learning features</li>
