@@ -357,7 +357,7 @@
       <td rowspan=2>
         <ul>
           <li>Find the maximum tasks that can be performed together without conflicting with each other</li>
-          <li>Find the maximum of vertexes that can execute some logic in parallel without conflicting with each other
+          <li>Find the maximum of vertexes that can execute some logic in parallel without conflicting with each other</li>
         </ul>
       </td>
     </tr>
