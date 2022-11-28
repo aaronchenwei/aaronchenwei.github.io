@@ -1,4 +1,4 @@
-# Graph Algorithms <!-- omit in toc -->
+# Graph Algorithms Overivew <!-- omit in toc -->
 
 ## 1. Algorithm Types
 
@@ -118,7 +118,6 @@
 
 ### 2.2. Community
 
-<div>
 <table>
 	<thead>
         <tr>
@@ -204,9 +203,6 @@
 		</tr>
 	</tbody>
 </table>
-</div>
-
----
 
 #### 2.2.1. Connected Components
 
@@ -228,7 +224,6 @@
 
 ### 2.3. GraphML/Embeddings
 
-<div>
 <table>
 	<thead>
 		<tr>
@@ -254,7 +249,6 @@
 		</tr>
 	</tbody>
 </table>
-</div>
 
 #### 2.3.1. FastRP
 
