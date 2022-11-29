@@ -1,4 +1,8 @@
-# Graph Algorithms Overivew <!-- omit in toc -->
+---
+layout: post
+title: Graph Algorithms Overivew
+date: 2022-11-28
+---
 
 ## 1. Algorithm Types
 

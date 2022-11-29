@@ -1,4 +1,8 @@
-# Spring Boot 3.0 Goes GA <!-- omit in toc -->
+---
+layout: post
+title: Spring Boot 3.0 Goes GA
+date: 2022-11-25
+---
 
 [Spring Blog](https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga) announced that **Spring Boot 3.0** is now generally available and 3.0.0 can be found in Maven Central on November 24, 2022.
 
