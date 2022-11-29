@@ -16,7 +16,7 @@ layout: default
 
 ### 11. [How to generate Kafka cluster ID?](./posts/2022/2022-11-08-how-to-generate-kafka-cluster-id.md)
 
-### 10. [Where do the settings in my Git configuration come from?](./posts/2022/2022-11-7-git-configuration-come-from.md)
+### 10. [Where do the settings in my Git configuration come from?](./posts/2022/2022-11-07-git-configuration-come-from.md)
 
 ### 9. [MIT - Papers on Graph Analytics](./posts/2022/2022-06-27-mit-papers-on-graph-analytics.md)
 
