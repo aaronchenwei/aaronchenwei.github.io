@@ -2,7 +2,7 @@
 layout: post
 title: Manully Gradle Installation on Linux
 date: 2022-11-29
-tags: gradle installation
+tags: gradle
 ---
 
 ## Installing manually
