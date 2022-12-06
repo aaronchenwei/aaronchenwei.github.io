@@ -8,6 +8,8 @@ layout: default
 
 ## 2022
 
+### 16. [A Simple Bash Script](./posts/2022/2022-12-06-bash-script.md)
+
 ### 15. [Manully Gradle Installation](./posts/2022/2022-11-29-install-gradle.md)
 
 ### 14. [Graph Algorithms Overview](./posts/2022/2022-11-28-graph-algorithms-overview.md)
