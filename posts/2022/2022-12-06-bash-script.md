@@ -1,4 +1,13 @@
+---
+layout: post
+title: A Simple Bash Script
+date: 2022-12-06
+
+---
+
 # A simple Bash Script
+
+A script to find out maven pom.xml inside jar files.
 
 ```bash
 #!/usr/bin/env bash
