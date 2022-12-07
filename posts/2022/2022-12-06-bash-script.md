@@ -2,7 +2,6 @@
 layout: post
 title: A Simple Bash Script
 date: 2022-12-06
-
 ---
 
 # A simple Bash Script
