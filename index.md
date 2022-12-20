@@ -8,6 +8,8 @@ layout: default
 
 ## 2022
 
+### 18. [Corepack Introduction](./posts/2022/2022-12-20-corepack-intro.md)
+
 ### 17. [pnpm Introduction](./posts/2022/2022-12-19-pnpm-intro.md)
 
 ### 16. [A Simple Bash Script](./posts/2022/2022-12-06-bash-script.md)
