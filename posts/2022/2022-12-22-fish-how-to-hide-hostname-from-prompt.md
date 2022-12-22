@@ -57,7 +57,7 @@ fish_prompt> # Defined in /usr/share/fish/functions/fish_prompt.fish @ line 4
              end
 ```
 
-2. on the last `echo` line, remove ` @ (set_color $color_host) (prompt_hostname) $normal`. Save and exit your editor.
+2. on the last `echo` line, remove `@ (set_color $color_host) (prompt_hostname) $normal`. Save and exit your editor.
 
 3. You may be prompted to save the function, do so. If you don't get prompted, do following:
 
