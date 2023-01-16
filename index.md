@@ -6,6 +6,12 @@ layout: default
 
 ---
 
+## 2023
+
+### 20. [How to install pip pacakges offline?](./posts/2023/2023-01-16-install-pip-pacakge-offline.md)
+
+---
+
 ## 2022
 
 ### 19. [fish shell - How to hide hostname from prompt](./posts/2022/2022-12-22-fish-how-to-hide-hostname-from-prompt.md)
