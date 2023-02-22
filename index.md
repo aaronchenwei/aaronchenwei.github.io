@@ -8,6 +8,8 @@ layout: default
 
 ## 2023
 
+### 23. [How to avoid conflicts between the Docker virtual network and the host network?](./posts/2023/2023-02-22-avoid-conflicts-for-docker-compose-network.md)
+
 ### 22. [How to add multiple directories in dependabot.yml config file?](./posts/2023/2023-02-20-multiple-directories-in-github-dependabot.md)
 
 ### 21. [How does MySQL 5.7 InnoDB In-Memory data structures work?](./posts/2023/2023-01-30-mysql-innodb-in-memory-data-structure.md)
