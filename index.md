@@ -8,6 +8,8 @@ layout: default
 
 ## 2023
 
+### 24. [What's the difference between --add-exports and --add-opens in Java 9?](./posts/2023/2023-03-15-difference-between-add-exports-and-add-opens.md)
+
 ### 23. [How to avoid conflicts between the Docker virtual network and the host network?](./posts/2023/2023-02-22-avoid-conflicts-for-docker-compose-network.md)
 
 ### 22. [How to add multiple directories in dependabot.yml config file?](./posts/2023/2023-02-20-multiple-directories-in-github-dependabot.md)
