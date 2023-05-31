@@ -10,7 +10,7 @@ date: 2023-05-31
 
 SNAP 6.0 was release on December 2020. There is on wheel files for python 3.10 or 3.11 in pypi site. This blog describes the steps to build SNAP with Python 3.10 on Ubuntu 22.04 LTS.
 
-<p style="text-align:center;">
+<p>
 <image src="https://github.com/aaronchenwei/aaronchenwei.github.io/assets/9360415/c7f1f8f7-e7c5-4888-88e9-f78b677cd6ba" width='400'>
 </p>
 
