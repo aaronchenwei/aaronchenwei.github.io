@@ -81,7 +81,7 @@ We are using user `root` inside container.
 # cd snap-pyton
 ```
 
-- Modify file ``
+- Modify file `Makefile.config`
 
 After line 49 add include path for python 3.10
 
