@@ -8,6 +8,8 @@ layout: default
 
 ## 2023
 
+### 28. [Few choices of Python linter and formatter with VSCode](./posts/2023/2023-08-01-python-linter-formatter.md)
+
 ### 27. [Build SNAP with Python 3.10 on Ubuntu 22.04 LTS](./posts/2023/2023-05-31-build-snap-python.md)
 
 ### 26. [Using Linux Docker Container as Development Environment ](./posts/2023/2023-05-18-docker-linux-dev-env.md)
